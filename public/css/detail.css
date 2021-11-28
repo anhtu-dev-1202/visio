@@ -1,0 +1,129 @@
+#banner-product img {
+    width: 100%;
+    float: left;
+}
+
+#banner-product h3 {
+    position: absolute;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    top: 200px;
+}
+
+#news-detail {
+    margin: 50px 0;
+}
+
+#news-detail .content-detail {
+    width: 770px;
+    float: left;
+}
+
+#news-detail .time {
+    color: #333;
+    padding: 10px 0;
+}
+
+#news-detail .time i {
+    padding-right: 5px;
+}
+
+.css-content {
+    font: 15px/22px 'Roboto', Helvetica, Arial,sans-senif;
+    box-sizing: border-box;
+}
+
+#news-detail .comments {
+    margin-top: 30px;
+}
+
+#news-detail .comments .title {
+    color: #333;
+    font-weight: bold;
+    font-size: 22px;
+    padding-bottom: 15px;
+}
+
+#news-detail .comments .content-comments {
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+}
+
+#news-detail .comments .fb-comments {
+    width: 100%;
+    float: left;
+}
+
+#news-detail .relate-news {
+    margin-top: 30px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+#news-detail .relate-news .title {
+    color: #333;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.sidebar-news-detail {
+    width: 350px;
+    float: right;
+}
+
+.sidebar-news-detail .news-new {
+    margin-bottom: 50px;
+}
+
+.sidebar-news-detail .title {
+    color: #333;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+    padding-bottom: 20px;
+}
+
+.sidebar-news-detail li {
+    width: 100%;
+    float: left;
+    padding: 15px 0;
+    border-bottom: 1px solid #ededed;
+}
+
+.sidebar-news-detail .image {
+    width: 120px;
+    float: left;
+}
+
+.sidebar-news-detail img {
+    width: 100%;
+    float: left;
+}
+
+.sidebar-news-detail .infomation {
+    width: calc(100% - 130px);
+    float: right;
+}
+
+.sidebar-news-detail h3 {
+    color: #333;
+    padding: 5px 0;
+    line-height: 20px;
+    font-size: 14px;
+}
+
+.sidebar-news-detail .time {
+    padding: 0!important;
+}
+
+.content-relate .image {
+    width: 100%;
+    min-height: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

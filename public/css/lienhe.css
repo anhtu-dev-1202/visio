@@ -1,0 +1,49 @@
+.content-first h2 {
+    color: rgba(30, 54, 120, 1);
+    font-weight: 700;
+    font-size: 2.2em;
+    text-align: center;
+}
+
+.content-first span {
+    display: inline-flex;
+}
+
+.hd-page-contact {
+    background: linear-gradient( 215deg, rgba(29, 66, 138, 1) 0%, rgba(30, 54, 120, 1) 100%);
+    border: 2px rgba(30, 54, 120, 1);
+    border-radius: 6px 6px 0px 0px;
+    padding: 10px;
+    font-weight: 700;
+    font-size: 1.1em;
+    color: rgb(255, 255, 255);
+}
+
+button.btn.btn-frm.btn-send {
+    border-radius: 5px;
+    padding: 6px;
+    font-weight: 700;
+    font-size: 1em;
+    color: rgb(255, 255, 255);
+    background: linear-gradient( 215deg, rgba(29, 66, 138, 1) 0%, rgba(30, 54, 120, 1) 100%);
+    border: 2px rgba(30, 54, 120, 1);
+}
+
+.body-content {
+    background: url("../images/body.jpg");
+}
+
+.content-first li i,
+.content-first li a,
+.content-first li svg {
+    color: rgba(30, 54, 120, 1);
+    font-size: 25px;
+    padding-right: 10px;
+}
+
+ul.list-unstyled {
+    font-size: 1.2rem;
+    color: rgba(30, 54, 120, 1);
+    font-family: emoji;
+    line-height: 35px;
+}

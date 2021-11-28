@@ -1,0 +1,190 @@
+.header-bor {
+    padding-bottom: 150px;
+    border-bottom: 1px solid #d9d9d9;
+}
+
+.title, .header {
+    text-transform: uppercase;
+}
+
+#about {
+    padding-top: 20px;
+}
+
+#about .right, #about .left {
+    padding: 25px 0px;
+}
+
+#about .title {
+    width: 165px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #002bab;
+}
+
+#about .left .title {
+    padding-left: 20px;
+    float: right;
+}
+
+#about .right .title {
+    float: left;
+}
+
+#about .line {
+    width: calc(100% - 165px);
+    height: 23px;
+    float: left;
+    margin-top: 12px;
+    background-color: #002bab;
+}
+
+#about .text, #about ul li {
+    text-align: justify;
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+#about ul li svg {
+    margin-right: 10px;
+}
+
+#about ul li i {
+    border-bottom: 1px solid #000;
+    font-weight: bold;
+}
+
+#about .giatri {
+    margin-top: 20px;
+}
+
+#about .giatri h2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #002bab;
+    text-align: center;
+}
+
+.giatri ul li {
+    float: left;
+    width: 10%;
+}
+
+.giatri .sumenh {
+    width: 75%;
+    margin: 36px auto;
+}
+
+.giatri .sumenh {
+    text-align: center;
+}
+
+.giatri .sumenh div {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.giatri .sumenh .svg svg {
+    margin: 5px;
+}
+
+.giatri .sumenh .svg div {
+    height: 90px;
+    width: 90px;
+    border-radius: 100%;
+    margin: auto;
+}
+
+.giatri .sumenh .svg .des {
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 21px;
+}
+
+.giatri .sumenh .svg .compass {
+    background-color: #0a7484;
+}
+
+.giatri .sumenh .svg .dart {
+    background-color: #FF0000FF;
+}
+
+.giatri .sumenh .svg .dart svg{
+    margin: 2px 0px 5px 9px !important;
+}
+
+.giatri .sumenh .svg .team {
+    background-color: #f7941d;
+}
+
+.giatri .sumenh .svg .setting {
+    background-color: #4ac1b0;
+}
+
+.giatri .sumenh .svg .setting svg{
+    margin: 13px 15px 5px 9px !important;
+}
+
+.giatri .sumenh .svg .plant {
+    background-color: #fec40d;
+}
+
+.giatri .sumenh .svg .plant svg{
+    margin: 13px 15px 5px 9px !important;
+}
+
+.giatri .sumenh .svg .growth {
+    background-color: #74ac43;
+}
+
+.giatri .sumenh .svg .growth svg{
+    margin: 13px 15px 5px 9px !important;
+}
+
+.we {
+    margin-top: 130px;
+    margin-bottom: 60px;
+}
+
+.we .we-header {
+    position: relative;
+    font-weight: bold;
+    background-color: #e6f1fe;
+    width: 70%;
+    float: left;
+    text-align: center;
+}
+
+.we .we-header .big-text {
+    font-size: 54px;
+}
+
+.we .we-header .small-text {
+    font-size: 32px;
+}
+
+.we .we-header .flag {
+    position: absolute;
+    height: 150px;
+    width: 80px;
+    left: 10%;
+    bottom: -35%;
+    background-color: #002bab;
+    transform: skewY(10deg);
+}
+
+.reason {
+    margin-top: 100px;
+}
+
+.reason .item span {
+    font-weight: bold;
+    font-size: 27px;
+    padding-left: 20px;
+    color: #002bab;
+}
+
+.reason .item p {
+    padding: 20px;
+    font-size: 18px;
+}
